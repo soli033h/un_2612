@@ -1,3 +1,5 @@
+using Racing.Vehicles.Dynamics;
+
 namespace Racing.Client.Cameras.Effects
 {
     /// <summary>
@@ -5,5 +7,6 @@ namespace Racing.Client.Cameras.Effects
     /// </summary>
     public interface ICameraEffect
     {
+        CameraEffectOffset Evaluate(CarController car, float deltaTime);
     }
 }

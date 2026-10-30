@@ -1,0 +1,9 @@
+{
+    "name": "Racing.Editor",
+    "rootNamespace": "Racing.EditorTools",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "autoReferenced": false
+}
