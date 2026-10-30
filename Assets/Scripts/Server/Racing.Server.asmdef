@@ -1,0 +1,11 @@
+{
+    "name": "Racing.Server",
+    "rootNamespace": "Racing.Server",
+    "references": [
+        "Racing.Shared"
+    ],
+    "defineConstraints": [
+        "UNITY_SERVER || UNITY_EDITOR"
+    ],
+    "autoReferenced": true
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Racing.Shared",
+    "rootNamespace": "Racing",
+    "references": [],
+    "autoReferenced": true
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Racing.Client",
+    "rootNamespace": "Racing.Client",
+    "references": [
+        "Racing.Shared",
+        "Unity.InputSystem"
+    ],
+    "defineConstraints": [
+        "!UNITY_SERVER"
+    ],
+    "autoReferenced": true
+}
